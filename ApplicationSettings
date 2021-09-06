@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationSettings>
+  <AuditingList class="System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]" assembly="mscorlib">
+    <Item class="CommonUtilities.KeyValue" assembly="CommonUtilities">
+      <Key type="System.String">
+        <Value>実績管理</Value>
+      </Key>
+      <Value type="System.Int32">
+        <Value>0</Value>
+      </Value>
+    </Item>
+    <Item class="CommonUtilities.KeyValue" assembly="CommonUtilities">
+      <Key type="System.String">
+        <Value>V実績集計</Value>
+      </Key>
+      <Value type="System.Int32">
+        <Value>0</Value>
+      </Value>
+    </Item>
+    <Item class="CommonUtilities.KeyValue" assembly="CommonUtilities">
+      <Key type="System.String">
+        <Value>予算入力</Value>
+      </Key>
+      <Value type="System.Int32">
+        <Value>0</Value>
+      </Value>
+    </Item>
+    <Item class="CommonUtilities.KeyValue" assembly="CommonUtilities">
+      <Key type="System.String">
+        <Value>科目マスタ</Value>
+      </Key>
+      <Value type="System.Int32">
+        <Value>0</Value>
+      </Value>
+    </Item>
+    <Item class="CommonUtilities.KeyValue" assembly="CommonUtilities">
+      <Key type="System.String">
+        <Value>組織マスタ</Value>
+      </Key>
+      <Value type="System.Int32">
+        <Value>0</Value>
+      </Value>
+    </Item>
+    <Item class="CommonUtilities.KeyValue" assembly="CommonUtilities">
+      <Key type="System.String">
+        <Value>V実績科目集計</Value>
+      </Key>
+      <Value type="System.Int32">
+        <Value>0</Value>
+      </Value>
+    </Item>
+    <Item class="CommonUtilities.KeyValue" assembly="CommonUtilities">
+      <Key type="System.String">
+        <Value>V実績科目グラフ</Value>
+      </Key>
+      <Value type="System.Int32">
+        <Value>0</Value>
+      </Value>
+    </Item>
+    <Item class="CommonUtilities.KeyValue" assembly="CommonUtilities">
+      <Key type="System.String">
+        <Value>V予実棒グラフ</Value>
+      </Key>
+      <Value type="System.Int32">
+        <Value>0</Value>
+      </Value>
+    </Item>
+    <Item class="CommonUtilities.KeyValue" assembly="CommonUtilities">
+      <Key type="System.String">
+        <Value>V予算科目集計</Value>
+      </Key>
+      <Value type="System.Int32">
+        <Value>0</Value>
+      </Value>
+    </Item>
+    <Item class="CommonUtilities.KeyValue" assembly="CommonUtilities">
+      <Key type="System.String">
+        <Value>V予実全社</Value>
+      </Key>
+      <Value type="System.Int32">
+        <Value>0</Value>
+      </Value>
+    </Item>
+    <Item class="CommonUtilities.KeyValue" assembly="CommonUtilities">
+      <Key type="System.String">
+        <Value>V予実一覧</Value>
+      </Key>
+      <Value type="System.Int32">
+        <Value>0</Value>
+      </Value>
+    </Item>
+    <Item class="CommonUtilities.KeyValue" assembly="CommonUtilities">
+      <Key type="System.String">
+        <Value>予算管理</Value>
+      </Key>
+      <Value type="System.Int32">
+        <Value>0</Value>
+      </Value>
+    </Item>
+    <Item class="CommonUtilities.KeyValue" assembly="CommonUtilities">
+      <Key type="System.String">
+        <Value>V予実一覧_多段</Value>
+      </Key>
+      <Value type="System.Int32">
+        <Value>0</Value>
+      </Value>
+    </Item>
+  </AuditingList>
+  <IntegrateWithOtherApplication>
+    <Password>rFvsug!gnTA7</Password>
+  </IntegrateWithOtherApplication>
+  <IsPageInContainerBackgroundHardCodeWhite>True</IsPageInContainerBackgroundHardCodeWhite>
+  <MaxRowCount>10000000</MaxRowCount>
+  <NotAllowModifyDatabaseByJsApi>False</NotAllowModifyDatabaseByJsApi>
+  <StartDateFiscalYear>1</StartDateFiscalYear>
+  <StartPage>new page</StartPage>
+  <UserServicePort>43497</UserServicePort>
+  <WebSitePort>23571</WebSitePort>
+</ApplicationSettings>
