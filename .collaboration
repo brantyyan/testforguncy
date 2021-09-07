@@ -174,31 +174,90 @@
   },
   {
     "ModuleName": "Pages/実績",
-    "ModuleType": 6
+    "State": 1,
+    "LockedBy": {
+      "UserName": "Yan Lin",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-09-07T12:09:21.6849225+08:00",
+    "ModuleType": 6,
+    "ToRemoveFiles": []
   },
   {
     "ModuleName": "Pages/実績/予実集計",
-    "ModuleType": 6
+    "State": 1,
+    "LockedBy": {
+      "UserName": "Yan Lin",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-09-07T12:09:21.6840658+08:00",
+    "ModuleType": 6,
+    "ToRemoveFiles": []
   },
   {
     "ModuleName": "PCPage/ダッシュボード",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "Yan Lin",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-09-07T12:09:21.681955+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\実績\\予実集計\\ダッシュボード.json"
+    ]
   },
   {
     "ModuleName": "PCPage/予実一覧",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "Yan Lin",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-09-07T12:09:21.6829567+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\実績\\予実集計\\予実一覧.json"
+    ]
   },
   {
     "ModuleName": "PCPage/予実一覧_多段",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "Yan Lin",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-09-07T12:09:21.6840658+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\実績\\予実集計\\予実一覧_多段.json"
+    ]
   },
   {
     "ModuleName": "PCPage/実績クロス集計",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "Yan Lin",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-09-07T12:09:21.6849225+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\実績\\実績クロス集計.json"
+    ]
   },
   {
     "ModuleName": "PCPage/実績管理_一覧ページ",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "Yan Lin",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-09-07T12:09:21.6849225+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\実績\\実績管理_一覧ページ.json"
+    ]
   },
   {
     "ModuleName": "PCPage/new page",
