@@ -202,16 +202,7 @@
   },
   {
     "ModuleName": "PCPage/new page",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "Yan Lin",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2021-09-07T11:54:49.6703286+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\new page.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/スタートページ",
@@ -316,19 +307,6 @@
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
     "ModuleType": 3
-  },
-  {
-    "ModuleName": "MasterPCPage/bbb",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "Yan Lin",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2021-09-07T11:54:49.669329+08:00",
-    "ModuleType": 3,
-    "ToRemoveFiles": [
-      "MasterPages\\bbb.json"
-    ]
   },
   {
     "ModuleName": "MasterPCPage/FGC_ユーザーマスターページ",
