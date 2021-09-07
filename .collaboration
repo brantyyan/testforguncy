@@ -1,1 +1,391 @@
-[{"ModuleName":"Table/実績管理","ModuleType":7,"ExclusiveType":0},{"ModuleName":"TableView/V実績集計","ModuleType":23,"ExclusiveType":0},{"ModuleName":"Table/予算入力","ModuleType":7,"ExclusiveType":0},{"ModuleName":"Table/科目マスタ","ModuleType":7,"ExclusiveType":0},{"ModuleName":"Table/組織マスタ","ModuleType":7,"ExclusiveType":0},{"ModuleName":"TableView/V実績科目集計","ModuleType":23,"ExclusiveType":0},{"ModuleName":"TableView/V実績科目グラフ","ModuleType":23,"ExclusiveType":0},{"ModuleName":"TableView/V予実棒グラフ","ModuleType":23,"ExclusiveType":0},{"ModuleName":"TableView/V予算科目集計","ModuleType":23,"ExclusiveType":0},{"ModuleName":"TableView/V予実全社","ModuleType":23,"ExclusiveType":0},{"ModuleName":"TableView/V予実一覧","ModuleType":23,"ExclusiveType":0},{"ModuleName":"Table/予算管理","ModuleType":7,"ExclusiveType":0},{"ModuleName":"TableView/V予実一覧_多段","ModuleType":23,"ExclusiveType":0},{"ModuleName":"Pages/ビルトイン ページ","ModuleType":6},{"ModuleName":"PCPage/FGC_401ページ","ModuleType":1},{"ModuleName":"PCPage/FGC_ただいまメンテナンス中です","ModuleType":1},{"ModuleName":"PCPage/FGC_コードの入力","ModuleType":1},{"ModuleName":"PCPage/FGC_パスワードのリセット","ModuleType":1},{"ModuleName":"PCPage/FGC_パスワードのリセット用リンクの送信","ModuleType":1},{"ModuleName":"PCPage/FGC_パスワードの変更","ModuleType":1},{"ModuleName":"PCPage/FGC_パスワードを忘れた場合","ModuleType":1},{"ModuleName":"PCPage/FGC_プロファイルの編集","ModuleType":1},{"ModuleName":"PCPage/FGC_メールサブスクリプション","ModuleType":1},{"ModuleName":"PCPage/FGC_ログイン","ModuleType":1},{"ModuleName":"PCPage/FGC_認証アプリの構成","ModuleType":1},{"ModuleName":"Pages/ビルトイン モバイルページ","ModuleType":6},{"ModuleName":"MobilePage/FGC_401ページ_モバイル","ModuleType":2},{"ModuleName":"MobilePage/FGC_ただいまメンテナンス中です_モバイル","ModuleType":2},{"ModuleName":"MobilePage/FGC_コードの入力_モバイル","ModuleType":2},{"ModuleName":"MobilePage/FGC_パスワードのリセット_モバイル","ModuleType":2},{"ModuleName":"MobilePage/FGC_パスワードのリセット用リンクの送信_モバイル","ModuleType":2},{"ModuleName":"MobilePage/FGC_パスワードの変更_モバイル","ModuleType":2},{"ModuleName":"MobilePage/FGC_パスワードを忘れた場合_モバイル","ModuleType":2},{"ModuleName":"MobilePage/FGC_プロファイルの編集_モバイル","ModuleType":2},{"ModuleName":"MobilePage/FGC_メールサブスクリプション_モバイル","ModuleType":2},{"ModuleName":"MobilePage/FGC_ログイン_モバイル","ModuleType":2},{"ModuleName":"MobilePage/FGC_認証アプリの構成_モバイル","ModuleType":2},{"ModuleName":"Pages/予算","ModuleType":6},{"ModuleName":"PCPage/予算入力ページ","ModuleType":1},{"ModuleName":"PCPage/予算管理_一覧ページ","ModuleType":1},{"ModuleName":"Pages/実績","ModuleType":6},{"ModuleName":"Pages/実績/予実集計","ModuleType":6},{"ModuleName":"PCPage/ダッシュボード","ModuleType":1},{"ModuleName":"PCPage/予実一覧","ModuleType":1},{"ModuleName":"PCPage/予実一覧_多段","ModuleType":1},{"ModuleName":"PCPage/実績クロス集計","ModuleType":1},{"ModuleName":"PCPage/実績管理_一覧ページ","ModuleType":1},{"ModuleName":"PCPage/new page","ModuleType":1},{"ModuleName":"PCPage/スタートページ","ModuleType":1},{"ModuleName":"Pages/内建页面","ModuleType":6},{"ModuleName":"PCPage/FGC_修改密码","ModuleType":1},{"ModuleName":"PCPage/FGC_忘记密码","ModuleType":1},{"ModuleName":"PCPage/FGC_修改用户信息","ModuleType":1},{"ModuleName":"PCPage/FGC_登录","ModuleType":1},{"ModuleName":"PCPage/FGC_重置密码发送邮件成功","ModuleType":1},{"ModuleName":"PCPage/FGC_重置密码","ModuleType":1},{"ModuleName":"PCPage/FGC_401页面","ModuleType":1},{"ModuleName":"PCPage/FGC_维护中","ModuleType":1},{"ModuleName":"PCPage/FGC_邮件订阅","ModuleType":1},{"ModuleName":"PCPage/FGC_两步验证_扫码页面","ModuleType":1},{"ModuleName":"PCPage/FGC_两步验证_验证页面","ModuleType":1},{"ModuleName":"Pages/内建手机页面","ModuleType":6},{"ModuleName":"MobilePage/FGC_修改密码_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_忘记密码_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_修改用户信息_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_登录_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_重置密码发送邮件成功_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_重置密码_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_401页面_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_维护中_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_邮件订阅_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_两步验证_扫码页面_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_两步验证_验证页面_手机版","ModuleType":2},{"ModuleName":"MasterPCPage/FGC_母版页","ModuleType":3},{"ModuleName":"MasterPCPage/bbb","ModuleType":3},{"ModuleName":"MasterPCPage/FGC_ユーザーマスターページ","ModuleType":3},{"ModuleName":"MasterPCPage/予実管理マスターページ 2","ModuleType":3},{"ModuleName":"MasterPCPage/予実管理マスターページ１","ModuleType":3},{"ModuleName":"ApplicationSetting","ModuleType":8},{"ModuleName":"Theme","ModuleType":9},{"ModuleName":"ImageSelector","ModuleType":10},{"ModuleName":"UserService","ModuleType":11},{"ModuleName":"CustomLibrary","ModuleType":12},{"ModuleName":"ShareCommand","ModuleType":13},{"ModuleName":"MapJsonFile","ModuleType":14},{"ModuleName":"DataContectionSet","ModuleType":25},{"ModuleName":"Upload","ModuleType":26}]
+[
+  {
+    "ModuleName": "Table/実績管理",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "TableView/V実績集計",
+    "ModuleType": 23,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/予算入力",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/科目マスタ",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/組織マスタ",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "TableView/V実績科目集計",
+    "ModuleType": 23,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "TableView/V実績科目グラフ",
+    "ModuleType": 23,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "TableView/V予実棒グラフ",
+    "ModuleType": 23,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "TableView/V予算科目集計",
+    "ModuleType": 23,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "TableView/V予実全社",
+    "ModuleType": 23,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "TableView/V予実一覧",
+    "ModuleType": 23,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/予算管理",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "TableView/V予実一覧_多段",
+    "ModuleType": 23,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Pages/ビルトイン ページ",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/FGC_401ページ",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_ただいまメンテナンス中です",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_コードの入力",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_パスワードのリセット",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_パスワードのリセット用リンクの送信",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_パスワードの変更",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_パスワードを忘れた場合",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_プロファイルの編集",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_メールサブスクリプション",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_ログイン",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_認証アプリの構成",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/ビルトイン モバイルページ",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "MobilePage/FGC_401ページ_モバイル",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_ただいまメンテナンス中です_モバイル",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_コードの入力_モバイル",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_パスワードのリセット_モバイル",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_パスワードのリセット用リンクの送信_モバイル",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_パスワードの変更_モバイル",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_パスワードを忘れた場合_モバイル",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_プロファイルの編集_モバイル",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_メールサブスクリプション_モバイル",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_ログイン_モバイル",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_認証アプリの構成_モバイル",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "Pages/予算",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/予算入力ページ",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/予算管理_一覧ページ",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/実績",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "Pages/実績/予実集計",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/ダッシュボード",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/予実一覧",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/予実一覧_多段",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/実績クロス集計",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/実績管理_一覧ページ",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/new page",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "Yan Lin",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-09-07T11:54:49.6703286+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\new page.json"
+    ]
+  },
+  {
+    "ModuleName": "PCPage/スタートページ",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/内建页面",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/FGC_修改密码",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_忘记密码",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_修改用户信息",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_登录",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_重置密码发送邮件成功",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_重置密码",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_401页面",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_维护中",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_邮件订阅",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_两步验证_扫码页面",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_两步验证_验证页面",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/内建手机页面",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "MobilePage/FGC_修改密码_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_忘记密码_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_修改用户信息_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_登录_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_重置密码发送邮件成功_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_重置密码_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_401页面_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_维护中_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_邮件订阅_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_两步验证_扫码页面_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_两步验证_验证页面_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MasterPCPage/FGC_母版页",
+    "ModuleType": 3
+  },
+  {
+    "ModuleName": "MasterPCPage/bbb",
+    "State": 2,
+    "LockedBy": {
+      "UserName": "Yan Lin",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-09-07T11:54:49.669329+08:00",
+    "ModuleType": 3,
+    "ToRemoveFiles": [
+      "MasterPages\\bbb.json"
+    ]
+  },
+  {
+    "ModuleName": "MasterPCPage/FGC_ユーザーマスターページ",
+    "ModuleType": 3
+  },
+  {
+    "ModuleName": "MasterPCPage/予実管理マスターページ 2",
+    "ModuleType": 3
+  },
+  {
+    "ModuleName": "MasterPCPage/予実管理マスターページ１",
+    "ModuleType": 3
+  },
+  {
+    "ModuleName": "ApplicationSetting",
+    "ModuleType": 8
+  },
+  {
+    "ModuleName": "Theme",
+    "ModuleType": 9
+  },
+  {
+    "ModuleName": "ImageSelector",
+    "ModuleType": 10
+  },
+  {
+    "ModuleName": "UserService",
+    "ModuleType": 11
+  },
+  {
+    "ModuleName": "CustomLibrary",
+    "ModuleType": 12
+  },
+  {
+    "ModuleName": "ShareCommand",
+    "ModuleType": 13
+  },
+  {
+    "ModuleName": "MapJsonFile",
+    "ModuleType": 14
+  },
+  {
+    "ModuleName": "DataContectionSet",
+    "ModuleType": 25
+  },
+  {
+    "ModuleName": "Upload",
+    "ModuleType": 26
+  },
+  {
+    "ModuleName": "MasterPCPage/aaa",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "Yan Lin",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-09-07T11:54:49.669329+08:00",
+    "ModuleType": 3
+  }
+]
