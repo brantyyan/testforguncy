@@ -377,15 +377,5 @@
   {
     "ModuleName": "Upload",
     "ModuleType": 26
-  },
-  {
-    "ModuleName": "MasterPCPage/aaa",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "Yan Lin",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2021-09-07T11:54:49.669329+08:00",
-    "ModuleType": 3
   }
 ]
